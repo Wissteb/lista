@@ -1,4 +1,8 @@
 agua
 huevos
 pera
+<<<<<<< HEAD
 manzanas
+=======
+manzanas
+>>>>>>> 8589b5830585d9240e092a3d158243906a0a5575
